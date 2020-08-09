@@ -4,11 +4,14 @@ navbar:
   title: "Newbie Website"
   left:
     - text: "Home"
-      icon: fa-home style="color:red;"></i>"
+      icon: fa-home 
       href: index.html
     - text: "GIS Work"
       icon: far fa-folder-open
       href: geog176A.html
+    - text: "Resume"
+      icon: far fa-file
+      href: resume.html
   right:
     - icon: fa-github
       href: https://github.com/UCSBaporter

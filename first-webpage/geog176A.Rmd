@@ -10,3 +10,6 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 - Included is a link to my online hosted portfolio for Fashion Design.
 - Beginning to establish very basic understanding of Rstudio. 
 - Rstudio is a work in progress!
+
+<i class="fas fa-map-marked-alt fa-5x" style="color:black;"></i>
+<i class="fas fa-globe-americas fa-5x" style="color:blue;"></i>
