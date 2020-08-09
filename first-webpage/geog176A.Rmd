@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+In the summer of 2020 I took a class GIS course based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
+
+## [Building a project website](https://github.com/UCSBaporter/UCSBaporterW1.git)
+
+- In this assignment I was able to construct a personal website using Github Pages. 
+- Included is a link to my online hosted portfolio for Fashion Design.
+- Beginning to establish very basic understanding of Rstudio. 
+- Rstudio is a work in progress!
