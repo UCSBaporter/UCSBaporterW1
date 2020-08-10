@@ -1,7 +1,7 @@
 name: "first-website"
 output_dir: "."
 navbar:
-  title: "Newbie Website"
+  title: "New Website"
   left:
     - text: "Home"
       icon: fa-home 
