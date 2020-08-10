@@ -11,7 +11,7 @@ navbar:
       href: geog176A.html
     - text: "Resume"
       icon: far fa-file
-      href: resume.html
+      href: Resume.html
   right:
     - icon: fa-github
       href: https://github.com/UCSBaporter
