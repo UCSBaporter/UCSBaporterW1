@@ -60,7 +60,7 @@ College Preparatory School
 
 - Illustrator / Photoshop
 
-- Rstudio / Github
+- Rstudio / Github / QGIS / ArcGIS (Beginner)
 
 - Management / Communication / Negotiation 
 
