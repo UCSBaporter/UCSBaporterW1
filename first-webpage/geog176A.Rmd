@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-In the summer of 2020 I took a class GIS course based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
+In the summer of 2020 I took a class GIS course based in R. I wrote code, and worked with data science concepts. Here is a collection of links: 
 
 ## [Building a project website](https://github.com/UCSBaporter/UCSBaporterW1.git)
 
@@ -11,5 +11,21 @@ In the summer of 2020 I took a class GIS course based in R. I wrote some code, a
 - Beginning to establish very basic understanding of Rstudio. 
 - Rstudio is a work in progress!
 
+<center>
 <i class="fas fa-map-marked-alt fa-5x" style="color:black;"></i>
 <i class="fas fa-globe-americas fa-5x" style="color:blue;"></i>
+</center>
+
+## [Processing Covid-19 Data](https://ucsbaporter.github.io/geog176A-labs/Lab-02.html)
+
+- In this assignment we worked with NY Times Covid-19 data to review trends in the State of California. 
+- Included is a review of Covid-19 case counts for counties within the State of California.
+- The included charts are designed to update with current daily information and therefore is a real-time review of how this pandemic is spreading throughout the state. 
+- The charts include: Cumulative case counts for the top 5 counties, The most new case counts for the top 5 counties, as well as the top 5 counties when reviewing population (by 100,000), and lastly an alphabetical list of counties with the lowest new cases when reviewing population (by 100,000). 
+- Additionally, I compared Covid-19 state data between California, Florida, Louisiana, and New York,  taking into account overall state population and cases.  
+- In the future these same steps could be used to continue to monitor certain state or county features of the Covid-19 pandemic, or any other trend with the public dataset. 
+
+<center>
+<img src = "img/Lab2_list.png" width="40%"/>
+<img src = "img/Lab2_chart.png" width="40%"/>
+</center>
