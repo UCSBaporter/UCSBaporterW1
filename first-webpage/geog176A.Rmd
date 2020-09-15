@@ -15,6 +15,7 @@ In the summer of 2020 I took a class GIS course based in R. I wrote code, and wo
 <i class="fas fa-map-marked-alt fa-5x" style="color:black;"></i>
 <i class="fas fa-globe-americas fa-5x" style="color:blue;"></i>
 </center>
+---
 
 ## [Processing Covid-19 Data](https://ucsbaporter.github.io/geog176A-labs/Lab-02.html)
 
@@ -28,4 +29,42 @@ In the summer of 2020 I took a class GIS course based in R. I wrote code, and wo
 <center>
 <img src = "img/Lab2_list.png" width="40%"/>
 <img src = "img/Lab2_chart.png" width="40%"/>
+</center>
+---
+
+## [Distances and the Border Zone](https://ucsbaporter.github.io/geog176A-labs/Lab-03.html)
+
+- In this assignment we recreated the information that supported the ACLU claims that, "Nearly 2 out of 3 people (in the USA) live within the 100 mile border zone".  That new Border Patrol agents practices are working beyond their legal authority and thereby infringing on the Fourth Amendment of the U.S. Constitution. 
+- Link to the ACLU article: https://www.aclu.org/other/constitution-100-mile-border-zone
+- I used simple feature objects and geo measures in conjunction with combines and unions, coordinate reference systems, and distance measurements.
+- The included maps review state or city distance from the Canadian and Mexican border as well as our coastal borders.
+
+<center>
+<img src = "img/Lab_3_100mi.png" width="45%"/>
+<img src = "img/Lab_3_largestcity.png" width="45%"/>
+</center>
+---
+
+## [Tesselations, Point-in-Polygon](https://ucsbaporter.github.io/geog176A-labs/Lab-04.html)
+
+- In this assignment we worked with National Dams Inventory.
+- Reviewing geometry simplification, centroid generations, and tessellations.
+- I used this information to review dams throughout the continental U.S. as well isolate dam features.
+
+
+<center>
+<img src = "img/Lab_4_county.png" width="43%"/>
+<img src = "img/Lab_4.png" width="41.5%"/>
+</center>
+---
+
+## [Rasters & Remote Sensing](https://ucsbaporter.github.io/geog176A-labs/Lab_05.html)
+
+- In this assignment we reviewed flood map information from a flood event near Palo, Iowa.
+- I reviewed the data to complete flood assisgnment of the surrounding areas.
+- I reviewed different color gradients to find the best fit to show water verses land.
+
+<center>
+<img src = "img/Lab_5_color.png" width="38%"/>
+<img src = "img/Lab_5_flood.png" width="44%"/>
 </center>
